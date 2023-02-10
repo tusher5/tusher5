@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusher5&label=Profile%20views&color=0e75b6&style=flat" alt="tusher5" /> </p>
 
-- 🔭 I’m currently working on **License Plate deblurring with GAN with GAN**
+- 🔭 I’m currently working on **License Plate deblurring with GAN**
 
 - 🌱 I’m currently learning **Django,javascript**
 
