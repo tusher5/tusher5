@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusher5&label=Profile%20views&color=0e75b6&style=flat" alt="tusher5" /> </p>
 
-- 🔭 I’m currently working on **License Plate deblurring with GAN**
+- 🔭 I’m currently working on **License Plate deblurring with variational Auto Encoder (VAE) Network**
 
-- 🌱 I’m currently learning **Django,javascript**
+- 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **Python,C,Java**
+- 💬 Ask me about **Python,C, Java (Basic)**
 
 - 📫 How to reach me **sr.tusher1999@gmail.com**
 
